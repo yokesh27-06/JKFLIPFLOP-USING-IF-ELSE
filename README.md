@@ -73,3 +73,4 @@ RegisterNumber:24005930
 
 
 **RESULTS**
+The jk flip flop using if else are the output is verified
